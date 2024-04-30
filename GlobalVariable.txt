@@ -1,0 +1,15 @@
+
+Coursecode:SubCodeSIS OCTUhleO
+CourseName:SubNameSIS owpsx7LC
+ProgramBatch:GradeorProCodeId7VPs
+ProgramPhaseGroup:Under Graduate
+Programcode:GradeorProCodeId7VPs
+ProgramName:PrgGradeSISFOar4BjkGf
+AssignCalender:Org Calendar
+ProgramIntakedetailsName:PrgGradeSISFOar4BjkGf
+Seatttype:General seat
+Seatttype:Reserved Seat
+ProgramPeriodName:PeriodNamePA8dLxu7
+AcademyLocation:DIT-Dehradun EM
+
+ClassName/Section:Class xhtJc3
